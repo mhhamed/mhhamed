@@ -42,6 +42,23 @@
   
 </p>
 
+
+### 👉 Frameworks
+<p align="left"> 
+  &emsp; 
+  <a href="https://laravel.com/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://codeigniter.com/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img alt="Angular" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  </a>
+</p>
+
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
@@ -56,10 +73,7 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
- &emsp;
-  <a href="https://angular.io/" target="_blank"> 
-    <img alt="Angular" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  </a>
+
 </p>
 
 
@@ -82,8 +96,31 @@
   
 
 
+### 👉 Databases 
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.mysql.com/" target="_blank"> 
+   <img alt="Flutter" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://www.mongodb.com//" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  </a>
+  </p>
+  
+
+
+
+
+
+
 <h3> 🤝🏻 Connect with Me </h3>
   
 &nbsp; <a href="https://www.linkedin.com/in/mohamed-hamed-601a43218/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mh.ibrahimhamed@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:mh.ibrahimhamed@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
